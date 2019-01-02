@@ -1,4 +1,5 @@
 import * as React from 'react';
+import '../styles/style.scss';
 
 export class App extends React.Component < {},
 IState > {
@@ -52,7 +53,7 @@ IState > {
       .tasks
       .map((task : ITask, index : number) => {
         return (
-          <div key={task.id} className="" tdl-task>
+          <div key={task.id} className="tdl-task">
             <span
               className={task.completed
               ? 'is-completed'
