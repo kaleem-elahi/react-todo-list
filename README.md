@@ -1,6 +1,6 @@
 # react-todo-list
 
-A simple todo-list app written in Typecript.
+A simple todo-list app written in Typescript.
 
 #### Demo 😍: https://todo-react-typescript.firebaseapp.com/
 
