@@ -1,0 +1,34 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.3rem;
+  background-color: #f3f3f3; }
+
+button {
+  height: 2.5rem;
+  border: none;
+  font-size: 1.3rem;
+  border-bottom: 4px solid #ccc;
+  margin-left: .5rem;
+  cursor: pointer;
+  color: #5e5e5e; }
+
+.container___pxcHI {
+  font-size: 1.3rem;
+  color: #f3f3f3;
+  background: red; }
+
+.is-completed___1Z5_K {
+  text-decoration: line-through;
+  color: #5e5e5e; }
+
+.tdl-input___1CTjU {
+  padding: .5rem;
+  font-size: 1.3rem;
+  margin: 1rem 0; }
+
+.tdl-task___fpyxe {
+  padding: .5rem; }
+
+
+/*# sourceMappingURL=main.css.map*/
